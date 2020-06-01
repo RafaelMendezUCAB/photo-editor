@@ -5,7 +5,10 @@ Enlace al Diagrama de Clase y Diagrama de Secuencia realizados como apoyo para e
 
 [Enlace](https://app.lucidchart.com/invitations/accept/8c386e8e-be73-4ae3-b014-002353219cec)
 
-Integrantes:
+
+
+## Integrantes:
+
 
 Rafael Mendez.
 
