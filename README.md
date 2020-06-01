@@ -7,6 +7,8 @@ Enlace al Diagrama de Clase y Diagrama de Secuencia realizados como apoyo para e
 
 Integrantes:
 
-Rafael Mendez
-Christian Neira
-Gabriel Tovar
+Rafael Mendez.
+
+Christian Neira.
+
+Gabriel Tovar.
